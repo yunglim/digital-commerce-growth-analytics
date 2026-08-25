@@ -1,0 +1,14 @@
+feature,importance,std
+purchase_hour_utc,0.0204,0.0183
+sessions_before_first_purchase,0.0167,0.0072
+checkout_events_before_purchase,0.0151,0.0062
+first_order_revenue,0.0103,0.0107
+first_order_items,0.0076,0.0051
+purchase_day_of_week,0.0061,0.0089
+device_category,0.0056,0.0047
+first_medium,0.0042,0.0093
+add_to_cart_before_purchase,0.0038,0.002
+search_events_before_purchase,-0.0008,0.0006
+product_views_before_purchase,-0.0014,0.0007
+days_first_visit_to_purchase,-0.0062,0.0096
+first_source,-0.0063,0.0124
